@@ -1,4 +1,0 @@
-# 屏蔽 wechatqqpad 模块网络连接
-DOMAIN,wxqqpad.netlify.app,REJECT
-DOMAIN,pic.wztq.ltd,REJECT
-IP-CIDR,119.91.29.9/32,REJECT,no-resolve
