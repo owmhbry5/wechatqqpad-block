@@ -1,0 +1,9 @@
+!
+! Title: wechatqqpad Block List
+! Description: Block network connections used by wechatqqpad module
+! Version: 2026061701
+! Last modified: 2026-06-17
+!
+||wxqqpad.netlify.app^
+||pic.wztq.ltd^
+119.91.29.9$network
